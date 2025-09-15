@@ -1,0 +1,167 @@
+<!DOCTYPE html>  
+
+<html lang="en">   
+
+<head>   
+
+    <meta charset="UTF-8">   
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+
+    <title>Creative Captions</title>   
+
+    <style>   
+
+        body {   
+
+            font-family: Arial, sans-serif;   
+
+            line-height: 1.6;   
+
+            margin: 20px;   
+
+            padding: 20px;   
+
+            max-width: 800px;   
+
+            margin: auto;   
+
+            background-color: white;   
+
+        }   
+
+        h1 {   
+
+            text-align: center;   
+
+        }   
+
+        p {   
+
+            margin-bottom: 10px;   
+
+        }   
+
+        ul {   
+
+            margin: 10px 0;   
+
+            padding-left: 20px;   
+
+        }   
+
+    </style>   
+
+</head>   
+
+<body>
+<main id="main-content" role="main" class="container">
+  <header class="page-header">
+    <h1>Biblical view of Israel, Environment, and Religion</h1>
+    <p class="intro">
+      When I came to Yeshua (Jesus) on <time datetime="1983-03-08">March 8, 1983</time>, at age 23, it gave me a lens for life.
+      I can understand those without hope, because I once thought like them. And I can rejoice in God’s truth, because He opened
+      my eyes. I know what it feels like to long for peace, and I also know the futility of rejecting God’s promises.
+    </p>
+    <p class="intro-2">
+      I see the tension so clearly now. Since coming to faith in the God of the Bible, I’ve learned to see world events through the
+      lens of prophecy and His promises. But I also remember what it was like without that framework — trying to patch together my
+      own ‘Nirvana’ with human solutions that could never last.
+    </p>
+  </header>
+
+  <section id="observations" aria-labelledby="observations-heading" class="section">
+    <h2 id="observations-heading">1. How people without a biblical lens often see things</h2>
+
+    <article class="item" aria-labelledby="israel-heading">
+      <h3 id="israel-heading">Israel</h3>
+      <p>
+        I’ve noticed that many see Israel as just another geopolitical problem. They think if Israel could be divided or sidelined,
+        “peace” would follow. But they don’t see God’s covenant with Abraham, Isaac, and Jacob, or His plan revealed in Ezekiel and
+        beyond.
+      </p>
+    </article>
+
+    <article class="item" aria-labelledby="environment-heading">
+      <h3 id="environment-heading">The environment</h3>
+      <p>
+        Without believing in the Creator’s ultimate plan for the heavens and the earth, people naturally cling to what they
+        <em>can</em> see. To them, this world is the only hope: “If we fix the climate, we can fix our future.”
+      </p>
+    </article>
+
+    <article class="item" aria-labelledby="religion-heading">
+      <h3 id="religion-heading">Religion</h3>
+      <p>
+        Ecumenical unity sounds attractive to many — the idea that “if only we could blend religions, we’d stop fighting.” But truth,
+        by its very nature, excludes contradiction. Peace without God’s truth might sound good, but it can’t last.
+      </p>
+    </article>
+  </section>
+
+  <section id="futility" aria-labelledby="futility-heading" class="section">
+    <h2 id="futility-heading">2. Why that vision is futile <small>(Romans 1; Jeremiah 17:9)</small></h2>
+    <p>
+      From what I’ve seen — even when people are sincere and well-meaning — their worldview leaves out the one thing that matters most:
+      God’s Word. Without it, Israel looks expendable, the environment becomes ultimate, and religion is reduced to just cultural flavor.
+    </p>
+    <p>
+      Sin isn’t seen as the problem, so the “solutions” are always human plans, treaties, and compromises. But that leaves a dangerous
+      gap — one the enemy is quick to fill. Satan offers a false peace, just like 1 Thessalonians 5:3 warns, making it look like unity
+      and safety can be found apart from the cross.
+    </p>
+  </section>
+
+  <section id="scripture" aria-labelledby="scripture-heading" class="section">
+    <h2 id="scripture-heading">3. How Scripture reframes everything</h2>
+
+    <ul class="scripture-list">
+      <li><strong>Israel must exist</strong> — Ezekiel 36:22–25 shows Israel exists for the sake of God’s holy name, so the nations will know He is the Lord.</li>
+      <li><strong>The nations will gather against Israel</strong> — passages like Ezekiel 38–39 and Zechariah 12–14 describe a future gathering that ends in their destruction.</li>
+      <li><strong>A false peace will precede judgment</strong> — the world will say “peace and safety,” but sudden destruction follows (1 Thessalonians 5:3).</li>
+      <li><strong>God’s promise stands</strong> — despite human schemes, His covenant with Israel guarantees not only survival but ultimate redemption.</li>
+    </ul>
+  </section>
+
+  <section id="prayer" aria-labelledby="prayer-heading" class="section">
+    <h2 id="prayer-heading">My Prayer and Encouragement</h2>
+
+    <p>
+      Lord, when I see people talk about saving the Earth, I pray they would come to know You — the Creator of heaven and earth — and
+      find real hope in You alone.
+    </p>
+
+    <p>
+      When I hear talk of dividing Israel for the sake of peace, I pray they would encounter the true Prince of Peace, the only One
+      who can bring lasting peace to Jerusalem (Psalm 122:6; Isaiah 9:6).
+    </p>
+
+    <p>
+      And when I see the push for religious unity apart from Your truth, I pray for clarity — that people would see Yeshua as
+      “the way, the truth, and the life” (John 14:6).
+    </p>
+
+    <aside class="encouragement" aria-labelledby="encouragement-heading">
+      <h3 id="encouragement-heading">Encouragement for believers</h3>
+      <p>
+        For those who already believe, let us be encouraged: God hears these prayers. He has given us His promises, and they stand
+        unshaken. Even when the world looks for peace in all the wrong places, we know where true peace is found — in Him.
+      </p>
+    </aside>
+  </section>
+
+  <footer class="page-footer" role="contentinfo">
+    <p class="credits">Testimony &amp; reflection written in first person. Scripture references: Ezekiel 36:22–25; Ezekiel 38–39; Zechariah 12–14; 1 Thessalonians 5:3.</p>
+    <p><a href="#main-content">Back to top</a></p>
+  </footer>
+</main>
+
+<hr>
+    <footer style="text-align: center; margin-top: 2em;">
+
+  <p>© 2025 Charles Jarrell / Creative Captions. Created with AI-assisted tools under the author's direction.</p>
+
+</footer>
+</body>  
+
+</html>
